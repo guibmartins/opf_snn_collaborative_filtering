@@ -12,7 +12,7 @@ import utils.constants as c
 import cf_algorithms.similarity as s
 from utils import rectools as r
 from utils import datatools as d
-from opfython.opfython.models.unsupervised_snn import UnsupervisedSnnOPF as OPFSNN
+from opfython.models.unsupervised_snn import UnsupervisedSnnOPF as OPFSNN
 from cf_algorithms.cf_dbscan import DBSCAN
 from sklearn.preprocessing import LabelEncoder
 
