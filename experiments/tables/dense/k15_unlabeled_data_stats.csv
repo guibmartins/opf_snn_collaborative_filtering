@@ -1,0 +1,5 @@
+Dataset,Approach,DB-index,Silhouette score
+frogs,OPF,$\mathbf{1.4787 \pm 0.0643}$,$\mathbf{0.0947 \pm 0.0194}$
+frogs,OPF$_{SNN}$,$1.5443 \pm 0.0409$,$-0.0442 \pm 0.0078$
+google_reviews,OPF,$1.2689 \pm 0.0352$,$0.1302 \pm 0.0121$
+google_reviews,OPF$_{SNN}$,$\mathbf{1.0380 \pm 0.0284}$,$\mathbf{0.1747 \pm 0.0105}$
