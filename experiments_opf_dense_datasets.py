@@ -14,10 +14,10 @@ from sklearn.metrics import homogeneity_completeness_v_measure
 from sklearn.metrics import adjusted_rand_score, adjusted_mutual_info_score
 from sklearn.preprocessing import StandardScaler
 
-from opfython.opfython.models.unsupervised_snn import UnsupervisedAnnOPF, UnsupervisedSnnOPF as OPFSNN
-from opfython.opfython.models.unsupervised import UnsupervisedOPF
-from opfython.opfython.models.ann_unsupervised import ANNUnsupervisedOPF
-from opfython.opfython.models.unsupervised import ClusteringOPF
+from opfython.models.unsupervised_snn import UnsupervisedAnnOPF, UnsupervisedSnnOPF as OPFSNN
+from opfython.models.unsupervised import UnsupervisedOPF
+from opfython.models.ann_unsupervised import ANNUnsupervisedOPF
+from opfython.models.unsupervised import ClusteringOPF
 
 # Global variable 'dataset_name'
 dataset_name = None
