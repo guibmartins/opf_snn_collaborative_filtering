@@ -11,7 +11,7 @@ import utils.constants as c
 import utils.datatools as d
 import cf_algorithms.similarity as s
 from utils import rectools as r
-from opfython.opfython.models.unsupervised import ClusteringOPF as OPFClustering
+from opfython.models.unsupervised import ClusteringOPF as OPFClustering
 
 
 test_perc = 0.1
